@@ -30,7 +30,7 @@ header{
     border-left: 30px;
 }
 
-.videos{
+.video{
     background: rgb(155, 53, 219);
     display: flex;
     overflow-x: auto;
