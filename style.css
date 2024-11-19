@@ -18,6 +18,8 @@ header{
 .segunda-section{
     background: rgb(56, 5, 88);
     display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
 
 .chamada-texto{
@@ -30,9 +32,8 @@ header{
 }
 
 .videos{
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
+ 
+    
 }
 
 img{
